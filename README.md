@@ -40,7 +40,7 @@ N = 5          N = 8
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/your-username/interactive-box-layout.git
+   git clone https://github.com/manik0706/interactive-box-layout.git
    cd interactive-box-layout
    \`\`\`
 
