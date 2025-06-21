@@ -31,7 +31,7 @@ A beautiful and interactive Flutter application that creates dynamic box layouts
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/manik0706/interactive-box-layout.git
+   git clone [https://github.com/manik0706/interactive-box-layout](https://github.com/manik0706/layout_assignment).git
    cd interactive-box-layout
    \`\`\`
 
