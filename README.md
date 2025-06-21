@@ -17,15 +17,6 @@ A beautiful and interactive Flutter application that creates dynamic box layouts
 - **Responsive Design**: Adapts to all screen sizes and orientations
 - **Smooth Animations**: Entrance animations, pulse effects, and ripple feedback
 
-## 📱 Screenshots
-
-\`\`\`
-N = 5          N = 8
-██             ███
-█              █
-██             █
-               ███
-\`\`\`
 
 ## 🚀 Getting Started
 
